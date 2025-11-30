@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Lost-Stardust
-- 👀 I’m interested in gaming,anime,manga
-- 🌱 I’m currently learning coding via the odin project
+- 👀 I’m interested in gaming, anime, manga, and chess
+- 🌱 I’m currently doing a computer science degree
